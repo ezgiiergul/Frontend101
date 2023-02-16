@@ -1,0 +1,35 @@
+.header {
+    background-color: rgb(241, 236, 236);
+    width: 680px;
+
+}
+
+table {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 5px;
+
+
+}
+
+.column1 {
+    background-color: #7EE5DA;
+    width: 250px;
+    height: 75px;
+    margin-right: 30px;
+
+}
+
+.column2 {
+    background-color: #7EE5DA;
+    width: 130px;
+    height: 75px;
+}
+
+.column3 {
+    background-color: #7EE5DA;
+    width: 295px;
+    height: 75px;
+
+}
